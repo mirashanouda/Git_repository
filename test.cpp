@@ -3,6 +3,7 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-	cout<<"First Git file."<<endl;
+	cout<<"First Git version."<<endl;
+	cout << "Second Git version."<<endl;
 	return 0;
 }
